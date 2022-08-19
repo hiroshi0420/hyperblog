@@ -41,6 +41,15 @@ body
 
 }
 
+#footer
+
+{
+  background: gainsboro;
+  color: green;
+  text-align: center;
+  padding: 1em;
+}
+
 #post
 {
   background: white;
